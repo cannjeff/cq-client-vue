@@ -1,0 +1,13 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+table.cq-table {
+  .cq-table-button-wrapper {
+    white-space: nowrap;
+
+    button {
+      margin-right: 5px;
+    }
+  }
+}

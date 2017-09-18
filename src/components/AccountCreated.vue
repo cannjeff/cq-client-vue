@@ -1,0 +1,24 @@
+<template>
+  <div class="cq-screen-account-created">
+    <h2>Account created</h2>
+    <p>
+      Please check the email address you provided for an account verification link.
+    </p>
+  </div>
+</template>
+
+<script>
+export default {
+
+  name: 'AccountCreated',
+
+  data () {
+    return {
+
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+</style>
